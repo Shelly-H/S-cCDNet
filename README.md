@@ -7,4 +7,5 @@ The semantic change detection (SCD) task aims to detect “from-to” change typ
 # Datasets
 Please download the preprocessed DynamicEarthNet dataset from: https://pan.baidu.com/s/14An5X_Ewu38TNy2j3WtYPg?pwd=ansr   
 Extraction code：ansr 
+
 Please download the SECOND dataset from:

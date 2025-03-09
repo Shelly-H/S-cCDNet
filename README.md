@@ -6,6 +6,9 @@ The semantic change detection (SCD) task aims to detect “from-to” change typ
 
 # Datasets
 Please download the preprocessed Landsat-SCD dataset from: https://pan.baidu.com/s/1UTOwgmXV2uYajm5JmJJSsQ?pwd=8djp
+
 Extraction code：8djp 
+
 Please download the SECOND dataset from: https://pan.baidu.com/s/14An5X_Ewu38TNy2j3WtYPg?pwd=ansr
+
 Extraction code：ansr 

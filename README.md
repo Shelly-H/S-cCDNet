@@ -14,4 +14,4 @@ Please download the SECOND dataset from: https://pan.baidu.com/s/14An5X_Ewu38TNy
 Extraction code：ansr 
 
 # Code
-The code will be released after the article is accepted.
+The code will be released after the paper is accepted.
